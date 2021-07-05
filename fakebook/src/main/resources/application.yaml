@@ -1,0 +1,11 @@
+cloud:
+  aws:
+    credentials:
+      accessKey: AKIA2YALNYPAAYTBRQGT
+      secretKey: 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
+    s3:
+      bucket: chanhee-kit
+    region:
+      static: ap-northeast-2
+    stack:
+      auto: false
